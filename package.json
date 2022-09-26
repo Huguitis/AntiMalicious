@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aoi-ubfb": "^1.0.0",
+    "aoi.js": "^5.5.5"
+  }
+}
